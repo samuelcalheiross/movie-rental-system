@@ -12,7 +12,8 @@ Bem-vindo ao projeto da Locadora de Filmes! Este é um trabalho desenvolvido em 
 - **Catalog Search:** Search and view available movies.
 - **Movie Duration:** Movie duration is stored as a `String` for greater flexibility, accepting formats such as "1h20min".
 - **Graphical Interface:** Developed with JavaFX, ensuring a friendly and modern user experience.
---
+
+
 - **Cadastro de Filmes:** Adicione novos filmes ao catálogo com informações como título, duração e gênero.
 - **Consulta ao Catálogo:** Busque e visualize filmes disponíveis.
 - **Duração dos Filmes:** A duração dos filmes é armazenada como uma `String` para maior flexibilidade, aceitando formatos como "1h20min".
